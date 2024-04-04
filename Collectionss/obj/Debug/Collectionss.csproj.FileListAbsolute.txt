@@ -1,0 +1,7 @@
+F:\DotNetProgramss\Collectionss\Collectionss\bin\Debug\Collectionss.exe.config
+F:\DotNetProgramss\Collectionss\Collectionss\bin\Debug\Collectionss.exe
+F:\DotNetProgramss\Collectionss\Collectionss\bin\Debug\Collectionss.pdb
+F:\DotNetProgramss\Collectionss\Collectionss\obj\Debug\Collectionss.csproj.AssemblyReference.cache
+F:\DotNetProgramss\Collectionss\Collectionss\obj\Debug\Collectionss.csproj.CoreCompileInputs.cache
+F:\DotNetProgramss\Collectionss\Collectionss\obj\Debug\Collectionss.exe
+F:\DotNetProgramss\Collectionss\Collectionss\obj\Debug\Collectionss.pdb

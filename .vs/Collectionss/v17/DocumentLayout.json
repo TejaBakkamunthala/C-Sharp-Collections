@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotNetProgramss\\Collectionss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88DF90-EF9B-4F83-92D2-FA8967A735B6}|Collectionss\\Collectionss.csproj|F:\\DotNetProgramss\\Collectionss\\collectionss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88DF90-EF9B-4F83-92D2-FA8967A735B6}|Collectionss\\Collectionss.csproj|solutionrelative:collectionss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88DF90-EF9B-4F83-92D2-FA8967A735B6}|Collectionss\\Collectionss.csproj|f:\\dotnetprogramss\\collectionss\\collectionss\\hashset1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88DF90-EF9B-4F83-92D2-FA8967A735B6}|Collectionss\\Collectionss.csproj|solutionrelative:collectionss\\hashset1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88DF90-EF9B-4F83-92D2-FA8967A735B6}|Collectionss\\Collectionss.csproj|f:\\dotnetprogramss\\collectionss\\collectionss\\linkedlist1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88DF90-EF9B-4F83-92D2-FA8967A735B6}|Collectionss\\Collectionss.csproj|solutionrelative:collectionss\\linkedlist1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88DF90-EF9B-4F83-92D2-FA8967A735B6}|Collectionss\\Collectionss.csproj|f:\\dotnetprogramss\\collectionss\\collectionss\\dictionary1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88DF90-EF9B-4F83-92D2-FA8967A735B6}|Collectionss\\Collectionss.csproj|solutionrelative:collectionss\\dictionary1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88DF90-EF9B-4F83-92D2-FA8967A735B6}|Collectionss\\Collectionss.csproj|f:\\dotnetprogramss\\collectionss\\collectionss\\sortedset1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88DF90-EF9B-4F83-92D2-FA8967A735B6}|Collectionss\\Collectionss.csproj|solutionrelative:collectionss\\sortedset1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88DF90-EF9B-4F83-92D2-FA8967A735B6}|Collectionss\\Collectionss.csproj|f:\\dotnetprogramss\\collectionss\\collectionss\\queue1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88DF90-EF9B-4F83-92D2-FA8967A735B6}|Collectionss\\Collectionss.csproj|solutionrelative:collectionss\\queue1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88DF90-EF9B-4F83-92D2-FA8967A735B6}|Collectionss\\Collectionss.csproj|f:\\dotnetprogramss\\collectionss\\collectionss\\list1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88DF90-EF9B-4F83-92D2-FA8967A735B6}|Collectionss\\Collectionss.csproj|solutionrelative:collectionss\\list1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88DF90-EF9B-4F83-92D2-FA8967A735B6}|Collectionss\\Collectionss.csproj|f:\\dotnetprogramss\\collectionss\\collectionss\\stack1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88DF90-EF9B-4F83-92D2-FA8967A735B6}|Collectionss\\Collectionss.csproj|solutionrelative:collectionss\\stack1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88DF90-EF9B-4F83-92D2-FA8967A735B6}|Collectionss\\Collectionss.csproj|f:\\dotnetprogramss\\collectionss\\collectionss\\sortedlist1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88DF90-EF9B-4F83-92D2-FA8967A735B6}|Collectionss\\Collectionss.csproj|solutionrelative:collectionss\\sortedlist1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88DF90-EF9B-4F83-92D2-FA8967A735B6}|Collectionss\\Collectionss.csproj|f:\\dotnetprogramss\\collectionss\\collectionss\\hashtable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88DF90-EF9B-4F83-92D2-FA8967A735B6}|Collectionss\\Collectionss.csproj|solutionrelative:collectionss\\hashtable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88DF90-EF9B-4F83-92D2-FA8967A735B6}|Collectionss\\Collectionss.csproj|f:\\dotnetprogramss\\collectionss\\collectionss\\arraylist1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88DF90-EF9B-4F83-92D2-FA8967A735B6}|Collectionss\\Collectionss.csproj|solutionrelative:collectionss\\arraylist1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HashSet1.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\Collectionss\\Collectionss\\HashSet1.cs",
+              "RelativeDocumentMoniker": "Collectionss\\HashSet1.cs",
+              "ToolTip": "F:\\DotNetProgramss\\Collectionss\\Collectionss\\HashSet1.cs",
+              "RelativeToolTip": "Collectionss\\HashSet1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:17:43.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dictionary1.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\Collectionss\\Collectionss\\Dictionary1.cs",
+              "RelativeDocumentMoniker": "Collectionss\\Dictionary1.cs",
+              "ToolTip": "F:\\DotNetProgramss\\Collectionss\\Collectionss\\Dictionary1.cs",
+              "RelativeToolTip": "Collectionss\\Dictionary1.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwB0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:13:40.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Queue1.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\Collectionss\\Collectionss\\Queue1.cs",
+              "RelativeDocumentMoniker": "Collectionss\\Queue1.cs",
+              "ToolTip": "F:\\DotNetProgramss\\Collectionss\\Collectionss\\Queue1.cs",
+              "RelativeToolTip": "Collectionss\\Queue1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:12:32.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Stack1.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\Collectionss\\Collectionss\\Stack1.cs",
+              "RelativeDocumentMoniker": "Collectionss\\Stack1.cs",
+              "ToolTip": "F:\\DotNetProgramss\\Collectionss\\Collectionss\\Stack1.cs",
+              "RelativeToolTip": "Collectionss\\Stack1.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:11:47.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SortedList1.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\Collectionss\\Collectionss\\SortedList1.cs",
+              "RelativeDocumentMoniker": "Collectionss\\SortedList1.cs",
+              "ToolTip": "F:\\DotNetProgramss\\Collectionss\\Collectionss\\SortedList1.cs",
+              "RelativeToolTip": "Collectionss\\SortedList1.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwBYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:09:30.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SortedSet1.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\Collectionss\\Collectionss\\SortedSet1.cs",
+              "RelativeDocumentMoniker": "Collectionss\\SortedSet1.cs",
+              "ToolTip": "F:\\DotNetProgramss\\Collectionss\\Collectionss\\SortedSet1.cs",
+              "RelativeToolTip": "Collectionss\\SortedSet1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:09:26.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HashTable1.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\Collectionss\\Collectionss\\HashTable1.cs",
+              "RelativeDocumentMoniker": "Collectionss\\HashTable1.cs",
+              "ToolTip": "F:\\DotNetProgramss\\Collectionss\\Collectionss\\HashTable1.cs",
+              "RelativeToolTip": "Collectionss\\HashTable1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:07:35.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArrayList1.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\Collectionss\\Collectionss\\ArrayList1.cs",
+              "RelativeDocumentMoniker": "Collectionss\\ArrayList1.cs",
+              "ToolTip": "F:\\DotNetProgramss\\Collectionss\\Collectionss\\ArrayList1.cs",
+              "RelativeToolTip": "Collectionss\\ArrayList1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:07:05.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "List1.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\Collectionss\\Collectionss\\List1.cs",
+              "RelativeDocumentMoniker": "Collectionss\\List1.cs",
+              "ToolTip": "F:\\DotNetProgramss\\Collectionss\\Collectionss\\List1.cs",
+              "RelativeToolTip": "Collectionss\\List1.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAB8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T06:59:09.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\Collectionss\\Collectionss\\Program.cs",
+              "RelativeDocumentMoniker": "Collectionss\\Program.cs",
+              "ToolTip": "F:\\DotNetProgramss\\Collectionss\\Collectionss\\Program.cs",
+              "RelativeToolTip": "Collectionss\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwC0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T12:33:27.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinkedList1.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\Collectionss\\Collectionss\\LinkedList1.cs",
+              "RelativeDocumentMoniker": "Collectionss\\LinkedList1.cs",
+              "ToolTip": "F:\\DotNetProgramss\\Collectionss\\Collectionss\\LinkedList1.cs",
+              "RelativeToolTip": "Collectionss\\LinkedList1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T12:14:46.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
